@@ -1,9 +1,9 @@
-# full-ecommerce-website
+# -ecommerce-app-with-javascript
 
 
-<p> It's my first fully responive E-commerce app that I used:</p>
+<p>It's my first fully responsive e-commerce app that used:</p>
+<p>HTML/SASS/CSS and JAVASCRİPT</p>
 
-<p>HTML/CSS/SASS and Javascript</p>
 
 
-<img src="images/logo/full.gif" alt=""># -ecommerce-app-with-javascript
+<img src="images/logo/full.gif" alt="">
